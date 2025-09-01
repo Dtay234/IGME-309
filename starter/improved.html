@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IGME 309 E01 - Hi-Lo Guessing Game</title>
+</head>
+<body>
+    <div>
+        <input id="input-field" type="text">
+        <button id="go-button">Go</button>
+    </div>
+
+    <h1 id="result"></h1>
+    
+</body>
+
+<script type="text/javascript">
+
+let inputField = document.getElementById("input-field")
+let goButton = document.getElementById("go-button")
+let resultText = document.getElementById("result")
+
+const rnd = Math.round(Math.random() * 100);
+
+goButton.onclick = function() {
+    let input = parseInt(inputField.value);
+    let stringDisplay
+
+    if (input < rnd) {
+        stringDisplay = "low";
+    }
+    else if (input == rnd) {
+        stringDisplay = "correct";
+    }
+    else {
+        stringDisplay = "high";
+    }
+
+    if (isNaN(input)) {
+        stringDisplay = "Choose a valid number"
+    }
+
+    resultText.innerText = stringDisplay;
+
+}
+
+</script>
+
+</html>
