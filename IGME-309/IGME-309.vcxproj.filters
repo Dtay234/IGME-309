@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="assignment1_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MyMesh.cpp">
+    <ClCompile Include="assignment1_methods.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MyMesh.h">
+    <ClInclude Include="assignment1_methods.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="MyMesh.cpp" />
+    <ClCompile Include="assignment1_main.cpp" />
+    <ClCompile Include="assignment1_methods.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MyMesh.h" />
+    <ClInclude Include="assignment1_methods.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
