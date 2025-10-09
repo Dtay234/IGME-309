@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="interactiveTriangle.cpp">
+    <ClCompile Include="Exercise 7\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PolyObject.cpp">
+    <ClCompile Include="Exercise 7\MyMesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PolyObject.h">
+    <ClInclude Include="Exercise 7\MyMesh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
