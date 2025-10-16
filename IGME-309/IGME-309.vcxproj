@@ -19,11 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercise 7\main.cpp" />
-    <ClCompile Include="Exercise 7\MyMesh.cpp" />
+    <ClCompile Include="Assignment 3\Camera.cpp" />
+    <ClCompile Include="Assignment 3\main.cpp" />
+    <ClCompile Include="Assignment 3\ParticleSystem.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Exercise 7\MyMesh.h" />
+    <ClInclude Include="Assignment 3\Camera.h" />
+    <ClInclude Include="Assignment 3\ParticleSystem.h" />
+    <ClInclude Include="Assignment 3\Text.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
