@@ -19,7 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\demo_bv_hierarchy_practice.cpp" />
+    <ClCompile Include="Exercise 10\Camera.cpp" />
+    <ClCompile Include="Exercise 10\main.cpp" />
+    <ClCompile Include="Exercise 10\MyMesh.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exercise 10\Camera.h" />
+    <ClInclude Include="Exercise 10\MyMesh.h" />
+    <ClInclude Include="Exercise 10\Text.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
