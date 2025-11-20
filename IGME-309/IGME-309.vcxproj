@@ -20,9 +20,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Assignment 5\Bullet.cpp" />
+    <ClCompile Include="Assignment 5\main.cpp" />
     <ClCompile Include="Assignment 5\Monster.cpp" />
     <ClCompile Include="Assignment 5\MyHunter.cpp" />
-    <ClCompile Include="Exercise 11\e11_template.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Assignment 5\Bullet.h" />

@@ -15,24 +15,30 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exercise 10\Camera.cpp">
+    <ClCompile Include="Assignment 5\Bullet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exercise 10\main.cpp">
+    <ClCompile Include="Assignment 5\Monster.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exercise 10\MyMesh.cpp">
+    <ClCompile Include="Assignment 5\MyHunter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment 5\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Exercise 10\Camera.h">
+    <ClInclude Include="Assignment 5\Bullet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Exercise 10\MyMesh.h">
+    <ClInclude Include="Assignment 5\Hunter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Exercise 10\Text.h">
+    <ClInclude Include="Assignment 5\Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment 5\MyHunter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
